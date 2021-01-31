@@ -1,4 +1,4 @@
-# IoT-Mailbox-Guard
+# IoT mailbox guard
 
 For complete project description, parts list and links to related resources, see:
 
